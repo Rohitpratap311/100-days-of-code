@@ -10,15 +10,19 @@
   <li>Part 2 Web D </li>
   </ul>
  
-
-# 100 Days Of Code - Log
-
 ### Day 2: January 3, 2020
 
 **Today's Progress**:  DFS cp-algo.
 
-# 100 Days Of Code - Log
 
 ### Day 3: January 4, 2020
 
 **Today's Progress**:  Array Problems  from 450DSA sheet 1 to 10.
+
+### Day 4: January 5, 2020
+
+**Today's Progress**:
+
+### Day 5: January 6, 2020
+
+**Today's Progress**:
