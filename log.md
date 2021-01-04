@@ -11,3 +11,14 @@
   </ul>
  
 
+# 100 Days Of Code - Log
+
+### Day 2: January 3, 2020
+
+**Today's Progress**:  DFS cp-algo.
+
+# 100 Days Of Code - Log
+
+### Day 3: January 4, 2020
+
+**Today's Progress**:  Array Problems  from 450DSA sheet 1 to 10.
