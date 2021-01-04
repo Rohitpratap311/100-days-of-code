@@ -17,7 +17,7 @@
 
 ### Day 3: January 4, 2020
 
-**Today's Progress**:  Array Problems  from 450DSA sheet 1 to 10.
+**Today's Progress**:  Array Problems  from <a href="https://450dsa.com/array">450DSA Array</a> 0 to 10.
 
 ### Day 4: January 5, 2020
 
