@@ -17,12 +17,12 @@
 
 ### Day 3: January 4, 2020
 
-**Today's Progress**:  Array Problems  from <a href="https://450dsa.com/array">450DSA Array</a> 0 to 10.
+**Today's Progress**: 10 Array Problems  from <a href="https://450dsa.com/array">450DSA Array</a> .
 
 ### Day 4: January 5, 2020
 
-**Today's Progress**:
+**Today's Progress**: 10 Array Problems  from <a href="https://450dsa.com/array">450DSA Array</a> .
 
 ### Day 5: January 6, 2020
 
-**Today's Progress**:
+**Today's Progress**: 10 String Problems  from <a href="https://450dsa.com/array">450DSA Array</a> .
